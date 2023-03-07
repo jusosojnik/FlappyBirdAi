@@ -22,7 +22,7 @@ moveMade = false;
 
 const pipeGap = 150;
 const pipeWidth = 75
-const ai = false;
+const ai = true;
 
 var reward = 0;
 
